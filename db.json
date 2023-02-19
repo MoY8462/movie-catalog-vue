@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aldon",
+      "email": "amcaviy0@sina.com.cn",
+      "password": "qL7oWGKV"
+    },
+    {
+      "id": 2,
+      "name": "Jorgan",
+      "email": "jabatelli1@sakura.ne.jp",
+      "password": "EFC2ZEHJ"
+    },
+    {
+      "id": 3,
+      "name": "Jeddy",
+      "email": "jemnoney2@uiuc.edu",
+      "password": "Tp4kcqeIj"
+    },
+    {
+      "id": 4,
+      "name": "Sydney",
+      "email": "selie3@cbc.ca",
+      "password": "i9SdX3qyjPKf"
+    },
+    {
+      "id": 5,
+      "name": "Duffy",
+      "email": "dwabb4@com.com",
+      "password": "eIuszbV"
+    },
+    {
+      "id": 6,
+      "name": "Libbie",
+      "email": "lswedeland5@arstechnica.com",
+      "password": "PNaMJJ"
+    },
+    {
+      "id": 7,
+      "name": "Hyatt",
+      "email": "hyukhtin6@creativecommons.org",
+      "password": "MW2mz2kgGr"
+    },
+    {
+      "id": 8,
+      "name": "Artair",
+      "email": "alandall7@google.ru",
+      "password": "wWGOcSl3CSTG"
+    },
+    {
+      "id": 9,
+      "name": "Joann",
+      "email": "jgilder8@artisteer.com",
+      "password": "sr6oInSp9Wqb"
+    },
+    {
+      "id": 10,
+      "name": "Raynard",
+      "email": "rjackes9@nasa.gov",
+      "password": "bIY7MibQNBrH"
+    },
+    {
+      "name": "Moises Alejandro ",
+      "email": "musiklomejor@hotmail.com",
+      "password": "123456",
+      "id": 11
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Minions: El origen de Gru",
+      "content": "Fanboy de un supergrupo de supervillanos conocido como Vicious 6, Gru trama un plan para volverse lo suficientemente malvado como para unirse a ellos, con el respaldo de sus seguidores, los Minions.",
+      "category": "comedy",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asE7W6XInrfxZ24svc5k24DTpek.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Thor: Amor y Trueno",
+      "content": "Cuarta película sobre «Thor» del MCU, en la que el Dios del trueno contará con Lady Thor como acompañante, personaje que interpretará Natalie Portman.",
+      "category": "action",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kf9Bib75eduxt0QiVJO4pawfd9p.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Un héroe samurai",
+      "content": "Una comedia animada llena de acción para toda la familia inspirada en el clásico atemporal de Mel Brooks ‘Blazing Saddles’. Hank, un perro encantador con la cabeza llena de sueños sobre convertirse en samurái, parte en busca de su destino.",
+      "category": "action",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcccakIsT9rBE3EH1f38JMqtgYw.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Doblemente Embarazada 2",
+      "content": "Javier y Felipe son ahora padres a tiempo completo de sus hijas. Sin embargo, los padres descubren que a las niñas les falta algo: una madre. Para encontrarla, invitan a sus amigas de vacaciones con un plan secreto.",
+      "category": "comedy",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNkAOFyb4TV2gTSc92jx2O9evtj.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Ex",
+      "content": "La historia de cómo las redes sociales y la mensajería instantánea están cambiando la vida de una persona moderna. Han pasado varios años desde que un adolescente de 16 años publicó una foto de su novia en el chat general, con la esperanza de presumir ante sus amigos. ",
+      "category": "horror",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gd2Lsq6yMzQmjhlbU2C9vw4HAJ8.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jim Botón y Lucas el maquinista",
+      "content": "Un huérfano, que creció en una isla pequeña, y un conductor de tren, se disponen a buscar un nuevo lugar para vivir. Pero antes de que puedan conducir hasta su nuevo hogar, eligen la aventura de salvar a una princesa secuestrada.",
+      "category": "action",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gufXJA8jc1ZhrtjE1Z1BEYsx6ob.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Black Phone",
+      "content": "En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos.",
+      "category": "horror",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LJC0MCghmmgSUNshpfA5RjHQay.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Por los pelos",
+      "content": "Quedarse calvo sigue siendo un trauma para muchos hombres. Juanjo, Sebas y Rayco son tres ejemplos, entre millones, de cómo la alopecia, conlleva también la caída de la autoestima. ",
+      "category": "comedy",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1gpVietOZl6UPfNY3zxaLkEPci.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Hasta que la boda nos separe",
+      "content": "Daniel y María están comprometidos y buscan tener una boda moderna a lado de la playa. Sin embargo; Raúl, el padre de María tiene otros planes, queriendo para su hija una boda tradicional al estilo mexicano.",
+      "category": "comedy",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPLe5v6kpYKMdoLUXXmZcXfimNo.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pokémon: Las crónicas de Arceus",
+      "content": "Mientras investigan la leyenda del mítico Pokémon Arceus, Ash, Goh y Dawn descubren un complot del Equipo Galáctico que amenaza al mundo.",
+      "category": "action",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dV8EUisTlKn6JMqJ72p3DMcWUvh.jpg"
+    },
+    {
+      "id": 11,
+      "title": "El Hobbit 1: Un viaje inseperado",
+      "content": "En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos.",
+      "category": "action",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg"
+    },
+    {
+      "id": 12,
+      "title": "La invitación",
+      "content": "Una joven es cortejada y deslumbrada solo para descubrir que una conspiración gótica está en marcha.",
+      "category": "horror",
+      "url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGNwpNvmieIClw6a9XZGKPL3p4Z.jpg"
+    }
+  ]
+}
