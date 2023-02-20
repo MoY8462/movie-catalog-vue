@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# For run proyect
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Install dependencies**
+> pnpm i
 
-## Recommended IDE Setup
+**Run Json server**
+> json-server --watch db.json --port 3000
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+**Run proyect**
+> pnpm run dev
+
+**User example**
+- Email: amcaviy0@sina.com.cn
+- Password: qL7oWGKV
