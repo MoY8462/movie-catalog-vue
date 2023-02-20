@@ -18,7 +18,6 @@ defineProps({
 <template>
     <div class="message">
         <h3 class="message__title">{{ title }}</h3>
-        <p class="meessage__content">Contenido de la película</p>
         <div class="message__category">
             <img :src="film" alt="">
             <span :class="category">{{ categories[category] }}</span>
@@ -36,6 +35,8 @@ defineProps({
     font-size: 1.125rem; /* 18px */
     line-height: 1.75rem; /* 28px */
     font-weight: 600;
+    height: 4rem;
+    color: #0c4a6e;
 }
 .message__content{
     font-size: 0.875rem; /* 14px */

@@ -25,7 +25,7 @@ defineProps({
 })
 const button = `w-full h-full border-2 border-[transparent]
                 px-3 leading-3 hover:font-semibold rounded
-                disabled:opacity-50 disabled:cursor-not-allowed`
+                text-sky-900`
 </script>
 
 <template>

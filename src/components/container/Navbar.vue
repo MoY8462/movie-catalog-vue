@@ -41,7 +41,7 @@ const loggout = () => {
             <a href="/contact">Contact</a>
         </div>
         <div v-if=!userState class="navbar__btn">
-            <Secondary :text="'Registro'" @change="registerRouter"></Secondary>
+            <Secondary class="!text-white" :text="'Registro'" @change="registerRouter"></Secondary>
             <Button :text="'Iniciar sesión'" @change="loginRouter"></Button>
         </div>
         <div v-else class="navbar__btn mx-8">
